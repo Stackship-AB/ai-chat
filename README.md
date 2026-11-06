@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stackship-logo-on-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset=".github/assets/stackship-logo.svg">
-  <img alt="Stackship" src=".github/assets/stackship-logo.svg" width="320">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stackship-ai-chat-on-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/stackship-ai-chat-color.svg">
+  <img alt="Stackship AI Chat" src=".github/assets/stackship-ai-chat-color.svg" width="320">
 </picture>
 
 <h1>Stackship AI Chat</h1>
